@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+finance-datareader
+datetime
+yfinance
+plotly
+matplotlib
+streamlit_extras
